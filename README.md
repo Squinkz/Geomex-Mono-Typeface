@@ -1,6 +1,6 @@
 # Geomex Gothic
 
-Geomex is a geometric monospaced typeface with rounded terminators. It is based on (mostly) perfect circles and straight lines. It features extensive ligatures for coding and latin glyph combinations. The rounded terminators and wide characters make it legible at small scales and give it a friendly appearance.
+Geomex is a geometric monospaced typeface with rounded terminators. It is based on (mostly) perfect circles and straight lines. It features extensive ligatures for coding and latin glyph combinations. The rounded terminators and wide characters make it legible at small scale and give it a friendly appearance.
 
 [Download Geomex Gothic (TTF)](./geomex_gothic.ttf?raw=true)
 
