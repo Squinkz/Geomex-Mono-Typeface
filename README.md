@@ -1,33 +1,36 @@
-# Geomex Gothic
+# Geomex Mono
 
-Geomex is a geometric monospaced typeface with rounded terminators. It is based on (mostly) perfect circles and straight lines. It features extensive ligatures for coding and latin glyph combinations. The rounded terminators and wide characters make it legible at small scale and give it a friendly appearance.
+Geomex Mono is a pair of two geometric monospaced typefaces with rounded terminators. It is based on (mostly) perfect circles and straight lines. It features extensive ligatures for coding and latin glyph combinations. The rounded terminators and thick strokes make it legible at small scale and give it a friendly appearance.
 
-[Download Geomex Gothic (TTF)](./geomex_gothic.ttf?raw=true)
+Geomex comes in two varieties - a gothic (sans-serif) and a roman (seriffed) version.
+
+[Download Geomex Mono Gothic (TTF)](./geomex_gothic.ttf?raw=true)
+[Download Geomex Mono Roman (TTF)](./geomex_roman.ttf?raw=true)
 
 ## Samples
 
 ### Glyphs
-![Type Glyphs](./samples/glyphs.png)
+![Type Glyphs](./samples/glyphs.gif)
 
 ### Textual Sample
-![Type Sample](./samples/sample.png)
+![Type Sample](./samples/sample.gif)
 
 ### Coding
 
 #### Python
-![Python](./samples/python.png)
+![Python](./samples/python.gif)
 
 #### Javascript
-![Javascript](./samples/js.png)
+![Javascript](./samples/js.gif)
 
 #### C#
-![C#](./samples/csharp.png)
+![C#](./samples/csharp.gif)
 
 #### C++
-![C++](./samples/cplpl.png)
+![C++](./samples/cplpl.gif)
 
 #### Rust
-![Rust](./samples/rust.png)
+![Rust](./samples/rust.gif)
 
 ## Installation
 
