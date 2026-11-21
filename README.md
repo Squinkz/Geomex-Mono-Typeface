@@ -4,7 +4,7 @@ Geomex Mono is a pair of two geometric monospaced typefaces with rounded termina
 
 Geomex comes in two varieties - a gothic (sans-serif) and a roman (seriffed) version.
 
-[Download Geomex Mono Gothic (TTF)](./geomex_gothic.ttf?raw=true)
+[Download Geomex Mono Gothic (TTF)](./geomex_gothic.ttf?raw=true)\
 [Download Geomex Mono Roman (TTF)](./geomex_roman.ttf?raw=true)
 
 ## Samples
